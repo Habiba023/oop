@@ -1,3 +1,12 @@
+/* 
+  **************************
+    Program Name :: Class Circle
+    Program Description :: In this Program we declare class Circle obj data member Radius(r)
+                           And Three Member Function get _ Radius() , Area() & Circum().
+    Program Date :: May 29,2023
+    Program Author :: Habiba
+  **************************
+ */
 #include <iostream>
 using namespace std;
 
