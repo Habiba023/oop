@@ -15,4 +15,5 @@
 9. [Class Book_Construct](Class-Book_constrct.cpp)
 10. [Class Test_Destruct](Class-Test_destruct.cpp)
 11. [Class Yahoo_Static](Class-Yahoo_Static.cpp)
+12. [Friend Fuction](Friend_Func.cpp)
 
